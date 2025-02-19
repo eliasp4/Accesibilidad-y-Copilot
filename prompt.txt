@@ -1,0 +1,37 @@
+Modifica el siguiente código HTML para cumplir con los estándares de accesibilidad web
+WCAG 2.2 (WAI) nivel AA y AAA. Realiza las siguientes acciones:
+1. Añade atributos ARIA apropiados a todos los elementos interactivos (formularios,
+botones, enlaces).
+2. Mejora la semántica utilizando etiquetas HTML5 como <header>, <main>, <nav>,
+<footer>, <section>, y <article>.
+3. Asegúrate de que todas las imágenes tengan textos alternativos descriptivos y
+significativos.
+4. Verifica y corrige la estructura de encabezados (<h1> a <h6>) para que sea
+jerárquicamente correcta.
+5. Implementa una navegación por teclado lógica y accesible.
+6. Asegura un contraste de color adecuado entre el texto y el fondo (relación mínima de
+4.5:1 para AA, 7:1 para AAA).
+7. Añade etiquetas descriptivas a todos los campos de formulario.
+8. Incluye instrucciones claras para los campos de formulario que requieran un formato
+específico.
+9. Asegúrate de que todos los elementos interactivos tengan un área de interacción
+mínima de 44x44 píxeles.
+10. Implementa un skip link al inicio de la página para saltar directamente al contenido
+principal.
+11. Asegúrate de que el idioma de la página esté correctamente especificado.
+12. Proporciona subtítulos y transcripciones para contenido multimedia si es aplicable.
+13. Evita el uso de atributos que dependan únicamente del color para transmitir información.
+14. Asegúrate de que el contenido sea legible y funcional cuando se amplía hasta un 200%.
+15. Verifica que todos los atributos aria-labelledby y aria-describedby referencien un id
+existente en la página.
+16. Asegura que los elementos referenciados por aria-labelledby y aria-describedby
+contengan etiquetas o descripciones adecuadas.
+17. Si la página no tiene un <h1>, agrégalo con un título claro y descriptivo.
+18. Asegura que la jerarquía de encabezados sea coherente (<h1> → <h2> → <h3>, etc.).
+19. Para <video> con audio, asegúrate de incluir subtítulos sincronizados (<track> con
+kind="captions").
+20. Para <audio> y <video>, proporciona una transcripción accesible en texto.
+21. Verifica que el contenido multimedia tenga una alternativa textual adecuada para
+usuarios con discapacidades auditivas.
+Aplica estas modificaciones manteniendo la funcionalidad original del código. Comenta cada
+cambio significativo para explicar su propósito en relación con la accesibilidad.
