@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portal de Noticias Interactivo</title>
+    <style>
+        .red-text { color: red; }
+        .small-button { font-size: 10px; padding: 2px; }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <img src="logo.png" width="100" height="50">
+        <h1 style="color: #777;">Noticias Globales 24/7</h1>
+    </div>
+
+    <div id="nav">
+        <a href="#" onclick="changePage('home')">Inicio</a> |
+        <a href="#" onclick="changePage('politics')">Política</a> |
+        <a href="#" onclick="changePage('sports')">Deportes</a> |
+        <a href="#" onclick="changePage('entertainment')">Entretenimiento</a>
+    </div>
+
+    <div id="main-content">
+        <h2>Últimas Noticias</h2>
+        <div class="news-item">
+            <h3>Descubrimiento Científico Revolucionario</h3>
+            <img src="science.jpg" width="200" height="150">
+            <p>Científicos han logrado un avance significativo en la fusión nuclear...</p>
+            <span class="red-text">¡Exclusiva!</span>
+            <button class="small-button" onclick="readMore()">Leer más</button>
+        </div>
+
+        <div class="news-item">
+            <h3>Resultados Electorales Sorprendentes</h3>
+            <img src="election.jpg" width="200" height="150">
+            <p>Las elecciones regionales han dado un giro inesperado con la victoria de...</p>
+            <button class="small-button" onclick="readMore()">Leer más</button>
+        </div>
+    </div>
+
+    <div id="sidebar">
+        <h4>Noticias Populares</h4>
+        <ul>
+            <li><a href="#">Nuevo récord mundial en atletismo</a></li>
+            <li><a href="#">Lanzamiento de smartphone revolucionario</a></li>
+            <li><a href="#">Descubren planeta potencialmente habitable</a></li>
+        </ul>
+    </div>
+
+    <div id="interactive">
+        <h4>Encuesta del Día</h4>
+        <form>
+            <p>¿Cuál crees que es el tema más importante en la actualidad?</p>
+            <input type="radio" name="poll" value="climate"> Cambio Climático<br>
+            <input type="radio" name="poll" value="economy"> Economía<br>
+            <input type="radio" name="poll" value="health"> Salud Pública<br>
+            <input type="radio" name="poll" value="education"> Educación<br>
+            <button onclick="submitPoll()">Votar</button>
+        </form>
+    </div>
+
+    <div id="footer">
+        <p>&copy; 2025 Noticias Globales 24/7 | Todos los derechos reservados</p>
+        <a href="#" onclick="showPrivacyPolicy()">Política de Privacidad</a> |
+        <a href="#" onclick="showTerms()">Términos de Uso</a>
+    </div>
+
+    <script>
+        function changePage(page) {
+            alert('Cambiando a la página: ' + page);
+        }
+        function readMore() {
+            alert('Leyendo más...');
+        }
+        function submitPoll() {
+            alert('Gracias por votar!');
+        }
+        function showPrivacyPolicy() {
+            alert('Mostrando Política de Privacidad');
+        }
+        function showTerms() {
+            alert('Mostrando Términos de Uso');
+        }
+    </script>
+</body>
+</html>
