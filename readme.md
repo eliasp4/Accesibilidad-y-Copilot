@@ -38,11 +38,10 @@ Modifica el siguiente código HTML para cumplir con los estándares de accesibil
 WCAG 2.2 (WAI) nivel AA y AAA. Realiza las siguientes acciones:
 1. Añade atributos ARIA apropiados a todos los elementos interactivos (formularios,
 botones, enlaces).
-2. Mejora la semántica utilizando etiquetas HTML5 como <header>, <main>, <nav>,
-<footer>, <section>, y <article>.
+2. Mejora la semántica utilizando etiquetas HTML5 como &lt;header&gt;, &lt;main&gt;, &lt;nav&gt;, &lt;footer&gt;, &lt;section&gt;, y &lt;article&gt;.
 3. Asegúrate de que todas las imágenes tengan textos alternativos descriptivos y
 significativos.
-4. Verifica y corrige la estructura de encabezados [(<h1> a <h6>)] para que sea
+4. Verifica y corrige la estructura de encabezados (&lt;h1&gt; a &lt;h6&gt;) para que sea
 jerárquicamente correcta.
 5. Implementa una navegación por teclado lógica y accesible.
 6. Asegura un contraste de color adecuado entre el texto y el fondo (relación mínima de
@@ -62,11 +61,11 @@ principal.
 existente en la página.
 16. Asegura que los elementos referenciados por aria-labelledby y aria-describedby
 contengan etiquetas o descripciones adecuadas.
-17. Si la página no tiene un <h1>, agrégalo con un título claro y descriptivo.
-18. Asegura que la jerarquía de encabezados sea coherente (<h1> → <h2> → <h3>, etc.).
-19. Para <video> con audio, asegúrate de incluir subtítulos sincronizados (<track> con
+17. Si la página no tiene un &lt;h1&gt;, agrégalo con un título claro y descriptivo.
+18. Asegura que la jerarquía de encabezados sea coherente (&lt;h1&gt; → &lt;h2&gt; → &lt;h3&gt;, etc.).
+19. Para &lt;video&gt; con audio, asegúrate de incluir subtítulos sincronizados (&lt;track&gt; con
 kind="captions").
-20. Para <audio> y <video>, proporciona una transcripción accesible en texto.
+20. Para &lt;audio&gt; y &lt;video&gt;, proporciona una transcripción accesible en texto.
 21. Verifica que el contenido multimedia tenga una alternativa textual adecuada para
 usuarios con discapacidades auditivas.
 Aplica estas modificaciones manteniendo la funcionalidad original del código. Comenta cada
@@ -165,11 +164,10 @@ Modifica el siguiente código HTML para cumplir con los estándares de accesibil
 WCAG 2.2 (WAI) nivel AA y AAA. Realiza las siguientes acciones:
 1. Añade atributos ARIA apropiados a todos los elementos interactivos (formularios,
 botones, enlaces).
-2. Mejora la semántica utilizando etiquetas HTML5 como <header>, <main>, <nav>,
-<footer>, <section>, y <article>.
+2. Mejora la semántica utilizando etiquetas HTML5 como &lt;header&gt;, &lt;main&gt;, &lt;nav&gt;, &lt;footer&gt;, &lt;section&gt;, y &lt;article&gt;.
 3. Asegúrate de que todas las imágenes tengan textos alternativos descriptivos y
 significativos.
-4. Verifica y corrige la estructura de encabezados (<h1> a <h6>) para que sea
+4. Verifica y corrige la estructura de encabezados (&lt;h1&gt; a &lt;h6&gt;) para que sea
 jerárquicamente correcta.
 5. Implementa una navegación por teclado lógica y accesible.
 6. Asegura un contraste de color adecuado entre el texto y el fondo (relación mínima de
@@ -189,16 +187,15 @@ principal.
 existente en la página.
 16. Asegura que los elementos referenciados por aria-labelledby y aria-describedby
 contengan etiquetas o descripciones adecuadas.
-17. Si la página no tiene un <h1>, agrégalo con un título claro y descriptivo.
-18. Asegura que la jerarquía de encabezados sea coherente (<h1> → <h2> → <h3>, etc.).
-19. Para <video> con audio, asegúrate de incluir subtítulos sincronizados (<track> con
+17. Si la página no tiene un &lt;h1&gt;, agrégalo con un título claro y descriptivo.
+18. Asegura que la jerarquía de encabezados sea coherente (&lt;h1&gt; → &lt;h2&gt; → &lt;h3&gt;, etc.).
+19. Para &lt;video&gt; con audio, asegúrate de incluir subtítulos sincronizados (&lt;track&gt; con
 kind="captions").
-20. Para <audio> y <video>, proporciona una transcripción accesible en texto.
+20. Para &lt;audio&gt; y &lt;video&gt;, proporciona una transcripción accesible en texto.
 21. Verifica que el contenido multimedia tenga una alternativa textual adecuada para
 usuarios con discapacidades auditivas.
 Aplica estas modificaciones manteniendo la funcionalidad original del código. Comenta cada
 cambio significativo para explicar su propósito en relación con la accesibilidad.
-
 ## Tools Used
 
 -   AI Programming Assistants: ChatGPT, Perplexity
