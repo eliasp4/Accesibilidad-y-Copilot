@@ -42,7 +42,7 @@ botones, enlaces).
 <footer>, <section>, y <article>.
 3. Asegúrate de que todas las imágenes tengan textos alternativos descriptivos y
 significativos.
-4. Verifica y corrige la estructura de encabezados (<h1> a <h6>) para que sea
+4. Verifica y corrige la estructura de encabezados [(<h1> a <h6>)] para que sea
 jerárquicamente correcta.
 5. Implementa una navegación por teclado lógica y accesible.
 6. Asegura un contraste de color adecuado entre el texto y el fondo (relación mínima de
