@@ -98,23 +98,23 @@ A continuación, se presentan los resultados de las herramientas de validación 
 
 ### index1.html
 
--   Accesibilidad antes: [Captura de pantalla: Accesibilidad antes index1]
--   Accesibilidad después: [Captura de pantalla: Accesibilidad después index1\_accesible]
+-   Accesibilidad antes: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index1'.png
+-   Accesibilidad después: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index1_accesible'.png
 
 ### index2.html
 
--   Accesibilidad antes: [Captura de pantalla: Accesibilidad antes index2]
--   Accesibilidad después: [Captura de pantalla: Accesibilidad después index2\_accesible]
+-   Accesibilidad antes: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index2'.png
+-   Accesibilidad después: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index2_accesible'.png
 
 ### index3.html
 
--   Accesibilidad antes: [Captura de pantalla: Accesibilidad antes index3]
--   Accesibilidad después: [Captura de pantalla: Accesibilidad después index3\_accesible]
+-   Accesibilidad antes: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index3'.png
+-   Accesibilidad después: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index3_accesible'.png
 
 ### index4.html
 
--   Accesibilidad antes: [Captura de pantalla: Accesibilidad antes index4]
--   Accesibilidad después: [Captura de pantalla: Accesibilidad después index4\_accesible]
+-   Accesibilidad antes: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index4'.png
+-   Accesibilidad después: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index4_accesible'.png
 
 ## Conclusiones
 
@@ -223,23 +223,23 @@ Below are the results of the validation tools before and after applying the prom
 
 ### index1.html
 
--   Accessibility before: [Screenshot: Accessibility before index1]
--   Accessibility after: [Screenshot: Accessibility after index1\_accessible]
+-   Accessibility before: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index1'.png
+-   Accessibility after: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index1_accesible'.png
 
 ### index2.html
 
--   Accessibility before: [Screenshot: Accessibility before index2]
--   Accessibility after: [Screenshot: Accessibility after index2\_accessible]
+-   Accessibility before: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index2'.png
+-   Accessibility after: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index2_accesible'.png
 
 ### index3.html
 
--   Accessibility before: [Screenshot: Accessibility before index3]
--   Accessibility after: [Screenshot: Accessibility after index3\_accessible]
+-   Accessibility before: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index3'.png
+-   Accessibility after: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index3_accesible'.png
 
 ### index4.html
 
--   Accessibility before: [Screenshot: Accessibility before index4]
--   Accessibility after: [Screenshot: Accessibility after index4\_accessible]
+-   Accessibility before: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20antes%20'index4'.png
+-   Accessibility after: https://github.com/eliasp4/Accesibilidad-y-Copilot/blob/main/screenshots/Accesibilidad%20despues%20'index4_accesible'.png
 
 ## Conclusions
 
